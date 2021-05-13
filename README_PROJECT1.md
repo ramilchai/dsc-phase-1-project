@@ -24,7 +24,7 @@ Difflib library is used to solve the unmatched data formatting. This analysis do
 
 1. The movie should be in Action/Adventure/Sci-fi. As you can see from the graph, the genre generates the highest revenue in the industry.
 
-![Genres](./image/genes.png)
+![Genres](./image/genres.png)
 
 2. The movie should be directed by Christopher Nolan or Russo Brothers. Although these two do not have the highest rating, the movies that they receive this rating are in Action/Adventure/Sci-fi genre.
 
